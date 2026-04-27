@@ -1,6 +1,8 @@
-# dashboard-xvideos# 🔥 Fire Content Web — Análise Gratuita de Canal XVideos
+
 
 <img src="banner.png">
+
+# dashboard-xvideos# 🔥 Fire Content Web — Análise Gratuita de Canal XVideos
 
 > Ferramenta gratuita para criadoras de conteúdo analisarem a performance do seu canal XVideos em segundos.
 
