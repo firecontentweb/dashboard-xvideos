@@ -20,9 +20,9 @@ st.markdown(f"""
 
 html, body, [class*="css"] {{
     font-family: 'DM Sans', sans-serif;
-    background: #070709;
+    background: #181614;
 }}
-.main {{ background: #070709; }}
+.main {{ background: #181614; }}
 .block-container {{ padding: 2rem 2.5rem; max-width: 1200px; }}
 
 .fire-logo {{
@@ -193,8 +193,8 @@ GRID = "#131318"
 
 def cor():
     return dict(
-        plot_bgcolor='#070709',
-        paper_bgcolor='#070709',
+        plot_bgcolor='#181614',
+        paper_bgcolor='#181614',
         font_color='#555',
         xaxis=dict(gridcolor=GRID, zerolinecolor=GRID, color='#444'),
         yaxis=dict(gridcolor=GRID, zerolinecolor=GRID, color='#444'),
