@@ -6,7 +6,7 @@ import plotly.express as px
 # ─── CONFIG ───────────────────────────────────────────────
 st.set_page_config(
     page_title="Fire Content Web — Análise Gratuita",
-    page_icon="🔥",
+    page_icon="favicon.png",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
@@ -219,6 +219,8 @@ def bloco_bloqueado(titulo, itens, texto=""):
 # ─── HEADER ───────────────────────────────────────────────
 st.markdown('<div class="fire-logo">🔥 Fire Content Web</div>', unsafe_allow_html=True)
 st.markdown('<div class="fire-tagline">Análise de performance para criadoras de conteúdo adulto</div>', unsafe_allow_html=True)
+
+st.image("banner.png", use_container_width=True)
 
 # Hero
 st.markdown(f"""
